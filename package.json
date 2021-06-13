@@ -1,0 +1,22 @@
+{
+  "name": "afr_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx wdio run ./wdio.conf.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/cli": "^7.7.3",
+    "@wdio/local-runner": "^7.7.3",
+    "@wdio/mocha-framework": "^7.7.3",
+    "@wdio/selenium-standalone-service": "^7.7.3",
+    "@wdio/spec-reporter": "^7.7.3"
+  },
+  "dependencies": {
+    "@wdio/sync": "^7.7.3"
+  }
+}
