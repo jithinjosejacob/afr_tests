@@ -1,3 +1,5 @@
+This repo contains UI Automation tests using WebdriverIO.
+
 **Prerequisties**
 
 Nodejs stable version should be installed on local machine
